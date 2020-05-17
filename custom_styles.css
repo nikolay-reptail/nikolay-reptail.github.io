@@ -1,8 +1,3 @@
-@font-face {
-  font-family: 'Zizhyoba';
-  src: url('ZizhyobaRegular-L5K5.ttf')  format('truetype')/* Safari, Android, iOS */
-}
-
 .bg-image-main {
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url("images/reptile_edges.png");
 }
@@ -39,7 +34,7 @@
   position: fixed;
   width: 100%;
   text-align: center;
-  top: 35%;
+  top: 61%;
   overflow: hidden;
   display: block;
 }
