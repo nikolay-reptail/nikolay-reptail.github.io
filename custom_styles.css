@@ -1,13 +1,13 @@
 .bg-image-main {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url("images/reptile_edges.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url("images/reptile_edges.jpg");
 }
 
 .bg-image-glove {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("images/glove.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("images/glove.jpg");
 }
 
 .bg-image-dark {
-  background-image: linear-gradient(rgba(0, 250, 0, 0.1), rgba(0, 255, 0, 0.3)), url("images/dark.png");
+  background-image: linear-gradient(rgba(0, 250, 0, 0.1), rgba(0, 255, 0, 0.3)), url("images/dark.jpg");
 }
 
 .bg-gradient {
