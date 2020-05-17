@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Zizhyoba';
+  src: url('ZizhyobaRegular-L5K5.ttf')  format('truetype')/* Safari, Android, iOS */
+}
+
+.bg-image-main {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url("images/reptile_edges.png");
+}
+
+.bg-image-glove {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("images/glove.png");
+}
+
+.bg-image-dark {
+  background-image: linear-gradient(rgba(0, 250, 0, 0.1), rgba(0, 255, 0, 0.3)), url("images/dark.png");
+}
+
+.bg-gradient {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8));
+}
+
+.bg
+{
+  background-clip: content-box;
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  min-height: 550px;
+}
+
+.hero-text {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  top: 35%;
+  overflow: hidden;
+  display: block;
+}
+
+.bottom-position {
+  position: absolute;
+  bottom: 10%;
+  width: 100%;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
